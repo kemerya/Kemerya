@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)](https://kemerya.io)
 
 <h1 align="center">Hi 👋, I'm Kemerya Zeynu</h1>
-<h3 align="center">Data Analyst | AI Enthusiast | Computer Science Graduate from Ethiopia 🇪🇹</h3>
+<h3 align="center">Data Analyst | Computer Science Graduate from Ethiopia 🇪🇹</h3>
 
 <img align="right" width="380" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306593.jpg" alt="profile pic">
 
