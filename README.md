@@ -14,11 +14,11 @@
 ### 👩‍💻 About Me
 
 - 🎓 BSc in Computer Science (2025)
-- 💼 Currently working as a Data Analyst in an AI-driven company  
+- 💼 Currently working as a Data Analyst  
 - 📊 Passionate about Data Science, Machine Learning & Research  
-- 🚀 Transitioning from Web Development to Data & AI Engineering  
+- 🚀 Transitioning from Data analytics to Data Engineering & Data Scince  
 - 🌱 Currently improving my skills in Python for Data Science & Machine Learning  
-- 💬 Ask me about Data Analysis, SQL, .NET, Vue, and JavaScript  
+- 💬 Ask me about Data Analysis, SQL, Excel, PowerBi, and Pandas  
 - 📫 Reach me at: kemerzeynu00@gmail.com  
 - 📄 Resume: https://kemerya.github.io/kemeryaZeynusResume/
 
@@ -27,10 +27,10 @@
 ### 🧠 What I Work With
 
 #### 📊 Data & Analytics
-- Python  
+- Python (Pandas)  
 - SQL (MySQL, MS SQL Server)  
 - Data Cleaning & Transformation  
-- Data Visualization  
+- Data Visualization(PowerBi)  
 - Research Data Processing  
 
 #### 💻 Development Background
